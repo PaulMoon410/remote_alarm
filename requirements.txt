@@ -1,0 +1,2 @@
+# Python packages that can't be resolved on Windows but are available on Raspberry Pi
+RPi.GPIO
